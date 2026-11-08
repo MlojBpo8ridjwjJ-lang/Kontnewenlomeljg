@@ -1,0 +1,26 @@
+{
+    "users": {
+        "dulko78": {
+            "id": "u0_a239",
+            "device": "f4cabe02d350de1aba759cbacf3810a3df9a8c31f21de3b1a46bbf80dd155565",
+            "menu1": "1",
+            "menu2": "3",
+            "menu3": "2",
+            "menu4": "5",
+            "menu5": "1",
+            "menu6": "2",
+            "menu7": "100"
+        },
+        "premium99": {
+            "id": "u0_a555",
+            "device": "",
+            "menu1": "10",
+            "menu2": "10",
+            "menu3": "10",
+            "menu4": "10",
+            "menu5": "10",
+            "menu6": "10",
+            "menu7": "10"
+        }
+    }
+}
